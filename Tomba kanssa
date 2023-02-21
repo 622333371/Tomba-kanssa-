@@ -1,0 +1,81 @@
+
+{
+  "id": 1327364899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.05,11.81667,-10.05,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":-10.05,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Tomba kanssa",
+    "gn:country_code":"GN",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414641,
+    "gn:latitude":11.7273973,
+    "gn:longitude":-10.1892619,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tomba kanssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "lbl:bbox":"-10.1892619,11.7273973,-10.1892619,11.7273973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:ita_x_preferred":[
+        "Tomba kanssa"
+    ],
+    "name:msa_x_preferred":[
+        "Tomba kanssa"
+    ],
+    "name:spa_x_preferred":[
+        "Tomba kanssa"
+    ],
+    "name:und_x_variant":[
+        "TombaKanssa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414641,
+        "wk:page":"Tomba kan"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0c6ae69bb68ba2dddcbc43008f201f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1327364899,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1327364899,
+    "wof:lastmodified":1566639123,
+    "wof:name":"Tomba kanssa",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.18,
+    11.72739,
