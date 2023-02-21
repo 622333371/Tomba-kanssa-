@@ -7,9 +7,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-10.05,11.81667,-10.05,11.81667",
-    "geom:latitude":11.81667,
-    "geom:longitude":-10.05,
+    "geom:bbox":"-10.7273973,11.1892619,-10.05,11.81667",
+    "geom:latitude":11.7273973,
+    "geom:longitude":-10.1892619,
     "gn:admin1_code":"K",
     "gn:admin2_code":"39",
     "gn:asciiname":"Tomba kanssa",
@@ -22,7 +22,7 @@
     "gn:longitude":-10.1892619,
     "gn:modification_date":"2012-06-14",
     "gn:name":"Tomba kanssa",
-    "gn:population":0,
+    "gn:population":32867,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
     "lbl:bbox":"-10.1892619,11.7273973,-10.1892619,11.7273973",
@@ -77,5 +77,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -10.18,
-    11.72739,
+    -10.1892619,
+    11.7273973
+],
+"geometry": {"coordinates":[-10.7273973,11.1892619],"type":"Point"}
+}
