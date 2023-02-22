@@ -1,4 +1,4 @@
-
+﻿
 {
   "id": 1260214523,
   "type": "Feature",
@@ -58,13 +58,13 @@
     "wof:country":"GN",
     "wof:geomhash":"0c6ae69bb68ba2dddcbc43008f201f45",
     "wof:hierarchy":[
-        {
+      {
             "continent_id":102191573,
             "country_id":85632691,
             "county_id":421198017,
             "locality_id":1327364899,
             "region_id":85671489
-        }
+      }
     ],
     "wof:id":1327364899,
     "wof:lastmodified":1566639123,
@@ -75,7 +75,7 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
-},
+  },
   "bbox": [
     -10.1892619,
     11.7273973
