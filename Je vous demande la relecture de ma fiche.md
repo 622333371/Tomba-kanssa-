@@ -1,2 +1,0 @@
-# Tomba-kanssa-
-Résistance 
